@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:sign_in/screens/home/progress.dart';
 import 'package:sign_in/screens/home/faqs.dart';
 import 'package:sign_in/screens/home/home.dart';
+import 'package:sign_in/screens/home/progress.dart';
 
 class Nav extends StatefulWidget {
   @override

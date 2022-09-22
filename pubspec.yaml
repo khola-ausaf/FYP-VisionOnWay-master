@@ -33,6 +33,7 @@ flutter:
   
   assets:
     - Profile.jpg
+    
 
   # fonts:
   # - family: Pacifico
